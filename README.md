@@ -1,6 +1,6 @@
 # Recommended-by-iwara-author
 
-自发现i站以来，最大的问题就是作品质量参差不齐，导致劝退。而网上也很少有作者推荐，所以萌生了在GitHub上发布优质作者的想法。
+i站用了三四年了，很多人的第一印象应该是作品质量参差不齐，而网上也很少有作者推荐，所以这个项目诞生了。
 
 **如果您是该项目中被提名的iwara作者，并且不希望你的名字出现在该项目中，请及时与我联系。**
 
@@ -10,10 +10,11 @@
 
 |作者|主要作品|作品预览|备注|
 |:---:|:---:|:---:|:---:|
- [BlackTeaaa](https://ecchi.iwara.tv/users/blackteaaa)|泠鸢、初音、mhy系列...|![](img/2023-02-20-21-48-55.png)|赞助过的大佬记得加群哦!
- [ngreeed](https://ecchi.iwara.tv/users/ngreeed)|初音...|![](img/2023-02-20-21-52-10.png)|淡坑
- [NAINAINAI](https://ecchi.iwara.tv/users/nainainai)|百鬼绫目|![](img/2023-02-20-22-08-28.png)|淡坑
-  [玙碎冥牵绕](https://ecchi.iwara.tv/users/%E7%8E%99%E7%A2%8E%E5%86%A5%E7%89%B5%E7%BB%95)|初音、弱音、虫|![](img/2023-02-20-22-15-46.png)|淡坑
+[BlackTeaaa](https://ecchi.iwara.tv/users/blackteaaa)|泠鸢、初音、mhy系列...|![](img/2023-02-20-21-48-55.png)|赞助过的大佬记得加群哦!
+[ngreeed](https://ecchi.iwara.tv/users/ngreeed)|初音...|![](img/2023-02-20-21-52-10.png)|淡坑
+[NAINAINAI](https://ecchi.iwara.tv/users/nainainai)|百鬼绫目|![](img/2023-02-20-22-08-28.png)|淡坑
+[玙碎冥牵绕](https://ecchi.iwara.tv/users/%E7%8E%99%E7%A2%8E%E5%86%A5%E7%89%B5%E7%BB%95)|初音、弱音、虫|![](img/2023-02-20-22-15-46.png)|淡坑
+[超级喵杀拳](https://ecchi.iwara.tv/users/%E8%B6%85%E7%BA%A7%E5%96%B5%E6%9D%80%E6%8B%B3)|mhy系列、弱音、约战...|![](img/2023-02-20-22-30-22.png)|
  [官人我还要](https://ecchi.iwara.tv/users/官人我还要)|mhy系列...|![](img/2023-02-20-21-57-58.png)|
  [松花凌音](https://ecchi.iwara.tv/users/%E6%9D%BE%E8%8A%B1%E5%87%8C%E9%9F%B3)|泠鸢|![](img/2023-02-20-22-00-28.png)|
  [delta2018w](https://ecchi.iwara.tv/users/delta2018w)|弱音、洛天依、mhy系列...|![](img/2023-02-20-22-02-33.png)|
@@ -28,7 +29,7 @@
 - siresire [i站主页直达](https://ecchi.iwara.tv/users/siresire)
 - 患上中二病的程序姬 [i站主页直达](https://ecchi.iwara.tv/users/%E6%82%A3%E4%B8%8A%E4%B8%AD%E4%BA%8C%E7%97%85%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%A7%AC)
 - Tracer [i站主页直达](https://ecchi.iwara.tv/users/tracer)
-- 超级喵杀拳 [i站主页直达](https://ecchi.iwara.tv/users/%E8%B6%85%E7%BA%A7%E5%96%B5%E6%9D%80%E6%8B%B3)
+
 - Aline_EN [i站主页直达](https://ecchi.iwara.tv/users/alineen)
 - shantianxiaozhi [i站主页直达](https://ecchi.iwara.tv/users/shantianxiaozhi)
 - 在下神奈有何贵干 [i站主页直达](https://ecchi.iwara.tv/users/%E5%9C%A8%E4%B8%8B%E7%A5%9E%E5%A5%88%E6%9C%89%E4%BD%95%E8%B4%B5%E5%B9%B2)
